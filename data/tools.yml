@@ -11,12 +11,12 @@ tools:
     image: "https://semrush-kb.s3.amazonaws.com/uploads/2020/06/10/create%20project.gif"
     link: https://www.semrush.com/
   # tool loop in tool category
-  - name: Notepad ++
+  - name: Majestic
     image: "/images/tools/Notepad.png"
     link: https://notepad-plus-plus.org/
   # tool loop in tool category
-  - name: Sublime Text
-    image: "/images/tools/sublime.png"
+  - name: Scrapebox
+    image: "https://www.scrapebox.com/wp-content/uploads/2015/05/scrapebox-gui.png"
     link: https://www.sublimetext.com/
   # tool loop in tool category
   - name: Visual Studio Code
@@ -25,7 +25,7 @@ tools:
 
 
 # tool category
-- title: Design Tools
+- title: Hosting
   tool:
   # tool loop in tool category
   - name: Sketch
