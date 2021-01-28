@@ -1,15 +1,15 @@
 tools:
 # tool category
-- title: Dev Tools
+- title: My Favourite SEO Tools
   tool:
   # tool loop in tool category
-  - name: Git
-    image: "/images/tools/Git.png"
-    link: https://git-scm.com/
+  - name: Ahrefs
+    image: "https://ahrefs.com/blog/wp-content/uploads/2018/11/keywords-explorer-v3.jpg"
+    link: https://ahrefs.com
   # tool loop in tool category
-  - name: Atom
-    image: "/images/tools/Atom.png"
-    link: https://atom.io/
+  - name: SEM Rush
+    image: "https://semrush-kb.s3.amazonaws.com/uploads/2020/06/10/create%20project.gif"
+    link: https://www.semrush.com/
   # tool loop in tool category
   - name: Notepad ++
     image: "/images/tools/Notepad.png"
