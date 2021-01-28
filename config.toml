@@ -41,23 +41,23 @@ link = "plugins/search/search.js"
 # main menu
 [[menu.main]]
 URL = "contact"
-name = "Contact"
+name = "/Contact"
 weight = 1
 
 [[menu.main]]
 URL = "SEO tools"
-name = "tools"
+name = "/tools"
 weight = 2
 
 # footer menu
 [[menu.footer]]
 URL = "contact"
-name = "Contact"
+name = "/Contact"
 weight = 1
 
 [[menu.footer]]
 URL = "SEO Tools"
-name = "tools"
+name = "/tools"
 weight = 2
 
 
