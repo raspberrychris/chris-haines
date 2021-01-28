@@ -52,7 +52,7 @@ weight = 2
 # footer menu
 [[menu.footer]]
 URL = "contact"
-name = "/Contact"
+name = "Contact"
 weight = 1
 
 [[menu.footer]]
