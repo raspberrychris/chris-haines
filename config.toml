@@ -45,7 +45,7 @@ name = "Contact"
 weight = 1
 
 [[menu.main]]
-URL = "tools"
+URL = "SEO tools"
 name = "tools"
 weight = 2
 
@@ -69,13 +69,13 @@ home = "Home"
 logo = "https://i.ibb.co/pztSMD1/Chris-haines-logo-removebg-preview.png"
 # meta data
 author = "Chris Haines"
-description = "This is meta description"
+description = ""
 # google tag manager
 google_tag_manager = "" # your id
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 # copyright
-copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
+copyright = "&copy; 2021 [Chrishaines.uk](https://chrishaines.uk) All Rights Reserved"
 
 # preloader
 [params.preloader]

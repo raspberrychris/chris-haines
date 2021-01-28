@@ -1,7 +1,7 @@
 ############################ Default configuration #########################
 baseURL = "https://examplesite.com/"
 languageCode = "en-us"
-# site title 
+# site title
 title = "Northendlab | Blog Template"
 # theme
 theme = "northendlab-hugo"
@@ -73,7 +73,7 @@ description = "This is meta description"
 # google tag manager
 google_tag_manager = "" # your id
 # contact form action
-contact_form_action = "#" # contact form works with : https://formspree.io
+contact_form_action = "https://formspree.io/f/maylbqez" # contact form works with : https://formspree.io
 # copyright
 copyright = "&copy; 2020 [Gethugothemes](https://gethugothemes.com) All Rights Reserved"
 
