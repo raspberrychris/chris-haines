@@ -5,4 +5,4 @@ description : "this is meta description"
 image: "images/contact.svg"
 ---
 
-Contact me using the form below:
+Get in touch! Contact me using the form below:
