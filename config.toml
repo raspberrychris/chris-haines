@@ -1,8 +1,8 @@
 ############################ Default configuration #########################
-baseURL = "https://examplesite.com/"
+baseURL = "/"
 languageCode = "en-us"
-# site title 
-title = "Northendlab | Blog Template"
+# site title
+title = "Chris Haines"
 # theme
 theme = "northendlab-hugo"
 # post pagination
@@ -56,7 +56,7 @@ name = "Contact"
 weight = 1
 
 [[menu.footer]]
-URL = "tools"
+URL = "SEO Tools"
 name = "tools"
 weight = 2
 
