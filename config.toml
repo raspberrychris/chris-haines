@@ -68,7 +68,7 @@ home = "Home"
 # logo
 logo = "https://i.ibb.co/pztSMD1/Chris-haines-logo-removebg-preview.png"
 # meta data
-author = "Themefisher"
+author = "Chris Haines"
 description = "This is meta description"
 # google tag manager
 google_tag_manager = "" # your id
@@ -107,7 +107,7 @@ description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia
 [params.cta.button]
 enable = true
 label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
+link = "/"
 
 
 ############################## Social Site ##########################
