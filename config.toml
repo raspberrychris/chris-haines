@@ -40,12 +40,18 @@ link = "plugins/search/search.js"
 
 # main menu
 [[menu.main]]
+
+URL = "seo-services"
+name = "SEO Services"
+weight = 2
+
+[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
 
 [[menu.main]]
-URL = "tools"
+URL = "seo-tools"
 name = "SEO Tools"
 weight = 2
 
@@ -56,12 +62,12 @@ name = "Contact"
 weight = 1
 
 [[menu.footer]]
-URL = "tools"
+URL = "seo-tools"
 name = "SEO tools"
 weight = 2
 
 [[menu.footer]]
-URL = "About-Me"
+URL = "seo-consultant-london"
 name = "About me"
 weight = 2
 
