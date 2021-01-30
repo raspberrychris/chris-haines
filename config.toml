@@ -105,7 +105,7 @@ expire_days = 2
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 title = "Need SEO? I am an expert SEO Consultant based in London."
-image = "images/banner/illustration.png"
+image = "images/banner/illustration.webp"
 
 
 ######################## call to action ###############################
