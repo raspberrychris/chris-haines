@@ -60,6 +60,10 @@ URL = "tools"
 name = "SEO tools"
 weight = 2
 
+[[menu.footer]]
+URL = "About Me"
+name = "About me"
+weight = 2
 
 ######################### Default Parameters ###########################
 [params]
@@ -94,7 +98,7 @@ expire_days = 2
 ####################### banner #######################################
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
-title = "Need SEO? I am an SEO Consultant based in London."
+title = "Need SEO? I am an expert SEO Consultant based in London."
 image = "images/banner/illustration.png"
 
 
