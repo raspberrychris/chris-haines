@@ -61,7 +61,7 @@ name = "SEO tools"
 weight = 2
 
 [[menu.footer]]
-URL = "About Me"
+URL = "About-Me"
 name = "About me"
 weight = 2
 
