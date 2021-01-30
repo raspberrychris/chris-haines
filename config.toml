@@ -102,12 +102,12 @@ image = "images/banner/illustration.png"
 [params.cta]
 enable = true
 image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+title = "Need a free SEO Audit?"
+description = "Get in touch now to have Chris review your site for Free!"
 [params.cta.button]
 enable = true
-label = "Visit Here"
-link = "/"
+label = "Claim your free SEO Audit Today!"
+link = "contact"
 
 
 ############################## Social Site ##########################
