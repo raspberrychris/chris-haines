@@ -1,6 +1,6 @@
 +++
 title = "SEO Consultant London"
-image = "/images/post/post-1.jpg"
+image = "/images/seo-consultant.webp"
 author = "Chris Haines"
 date = 2019-11-07T05:00:00Z
 description = "SEO Consultant London"
