@@ -1,14 +1,13 @@
 +++
-title = "How to do Keyword Research"
-image = "/images/post/post-1.jpg"
 author = "Chris Haines"
+categories = ["SEO"]
 date = 2019-11-07T05:00:00Z
 description = "How to do Keyword Research"
-categories = ["SEO"]
+image = "/images/post/post-1.jpg"
+title = "How to do Keyword Research"
 type = "post"
-draft = "true"
-+++
 
++++
 KEYWORD RESEARCH GUIDE:
 
 Find out why you need to do Keyword Research for your website and business
