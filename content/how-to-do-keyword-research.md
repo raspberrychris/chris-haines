@@ -6,7 +6,7 @@ date = 2019-11-07T05:00:00Z
 description = "How to do Keyword Research"
 categories = ["SEO"]
 type = "post"
-draft = "true"
+draft = "false"
 +++
 
 KEYWORD RESEARCH GUIDE:
