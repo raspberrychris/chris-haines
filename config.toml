@@ -111,7 +111,7 @@ image = "images/banner/illustration.webp"
 ######################## call to action ###############################
 [params.cta]
 enable = true
-image = "images/3684518 400.jpg"
+image = "images/3684518200.jpg"
 title = "Need a free SEO Audit?"
 description = "Get in touch now to have Chris review your site for Free!"
 [params.cta.button]
