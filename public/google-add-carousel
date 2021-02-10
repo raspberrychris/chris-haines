@@ -1,0 +1,56 @@
++++
+title = "Google add Carousel"
+image = "/images/post/post-1.jpg"
+author = "Chris Haines"
+date = 2017-2-07T05:00:00Z
+description = "Google adds Carousel"
+categories = ["SEO"]
+type = "post"
+
++++
+
+
+
+Google have started testing two new features in the SERPs in February.  The first test is a carousel that changes the search query as you click each of the boxes within the carousel.  It seems as though the carousel is designed to breakout the search into its different variations.  Amazingly it seems that I was one of the first people to pick up on this new test.  After confirming in the Blue 449 office that this was actually a new feature, I decided to message Barry Schwartz and he subsequently posted an article on it as a new feature!
+
+@rustybrick have you seen this before on a search for [baby clothes] pic.twitter.com/cmL8mEFJDG
+
+— Chris Haines (@chris_at_b449) 2 February 2017
+
+The intriguing thing about this carousel is that it just doesn’t seem ready for a real world test at all.  This is a search for [baby clothing] shown below in the image.   However the images don’t really match the search.  When was the last time you saw a  baby wearing a massive hat like the one below, or some gold shoes?  Yet again, Google are just pulling from what they perceive to be the best image result, but as can be shown here this isn’t always the best (or most appropriate image)  and I am sure these images boxes could be open for manipulation if you are able to get an image ranking in one of these categories (probably not so hard).  Overall if this test rolls out on more searches it will have a massive impact on the SERPs and will push organic results even further below the fold (no surprise there)!  This reinforces Google’s business model, moves closer to a mobile-first search landscape.
+
+So anyway, here are the tests I noticed in a bit more detail:
+
+1. Carousel that dynamically changes search query
+baby-clothing-serp
+
+This is a search for [baby clothing] Clicking on the boxes above will change the search query.  There seems to be a lot of white space below the box – almost as if something should explain what it is.  If you take the carousel on its own it could be a women’s clothing carousel, but it is just generally a very odd collection of product images.  I think the problem with this would be creating a consistent image search experience across carousels.
+
+
+
+2. Mobile Friendly Buttons for type or list searches
+The second is a button that seems more appropriate for mobile, (but appears on desktop searches).  Both of these new tests seem to have breadcrumbs at the top.
+
+
+
+Again, on this test it seems completely random – how is a collar a clothing type?! And also why does the bikini lady seem to appear on both these searches?  Also interesting to note that searching for Clothing types results in a Garments breadcrumb.  Notice aswell how the “types” breadcrumb is actually pulled directly from my search and will be case sensitive depending on how I write it.  (Although interestingly the test didn’t work on [clothing TYPES]
+
+
+
+
+
+
+
+Breadcrumbs at the top of the SERPs
+One consistency of both of these new tests seems to be that they both make use of Breadcrumbs.  This is not really something that we have seen Google do this prominently before.  But it does make you think that if Google are using breadcrumbs themselves then its probably a good bet that having clear breadcrumbs on your own website is going to be a positive ranking factor in terms of onsite optimisation.  (I am pretty sure most sites do have breadcrumbs these days, but if you don’t then it probably makes sense to add them).
+
+
+
+Dog Clothing
+Ok, last but not least, I thought this was quite funny.  For some reason they are testing this as well on [dog clothing].  So again, we have the Garments breadcrumb.  Not exactly a word that you would associate with dog clothing…  Obviously dogs do wear collars, but it has pulled the most popular collar image, which happens to be the wrong type of collar.  For [dog clothes] we even get what looks like a placeholder image, or it looks like something hasn’t quite worked how they expected it to.
+
+
+
+All in all, is this a good user experience?  No, not at the moment!
+
+dog-clothing
