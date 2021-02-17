@@ -28,9 +28,9 @@ tools:
 - title: Hosting
   tool:
   # tool loop in tool category
-  - name: Sketch
-    image: "/images/tools/sketch.png"
-    link: https://www.sketch.com/
+  - name: WPX Hosting (Affiliate Link)
+    image: "/images/tools/wpx-hosting.png"
+    link: https://wpx.net/?affid=5504
   # tool loop in tool category
   - name: Adobe Illustrator
     image: "/images/tools/illustrator.png"
