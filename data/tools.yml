@@ -19,34 +19,18 @@ tools:
     image: "https://www.scrapebox.com/wp-content/uploads/2015/05/scrapebox-gui.png"
     link: https://www.sublimetext.com/
   # tool loop in tool category
-  - name: Visual Studio Code
-    image: "/images/tools/vs-code.png"
-    link: https://code.visualstudio.com/
+
 
 
 # tool category
-- title: Hosting
+- title: Recommended Hosting
   tool:
   # tool loop in tool category
   - name: WPX Hosting (Affiliate Link)
     image: "/images/tools/wpx-hosting.png"
     link: https://wpx.net/?affid=5504
   # tool loop in tool category
-  - name: Adobe Illustrator
-    image: "/images/tools/illustrator.png"
-    link: https://www.adobe.com/products/illustrator.html
-  # tool loop in tool category
-  - name: Invision
-    image: "/images/tools/invision.png"
-    link: https://www.invisionapp.com/studio
-  # tool loop in tool category
-  - name: Adobe XD
-    image: "/images/tools/xd.png"
-    link: https://www.adobe.com/products/xd.html
-  # tool loop in tool category
-  - name: Figma
-    image: "/images/tools/figma.png"
-    link: https://www.figma.com/
+
 
 
 # tool category
