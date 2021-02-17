@@ -1,4 +1,15 @@
 tools:
+
+
+
+  # tool category
+  - title: Recommended Hosting
+    tool:
+    # tool loop in tool category
+    - name: WPX Hosting (Affiliate Link)
+      image: "/images/tools/wpx-hosting.png"
+      link: https://wpx.net/?affid=5504
+    # tool loop in tool category
 # tool category
 - title: My Favourite SEO Tools
   tool:
@@ -20,16 +31,6 @@ tools:
     link: https://www.sublimetext.com/
   # tool loop in tool category
 
-
-
-# tool category
-- title: Recommended Hosting
-  tool:
-  # tool loop in tool category
-  - name: WPX Hosting (Affiliate Link)
-    image: "/images/tools/wpx-hosting.png"
-    link: https://wpx.net/?affid=5504
-  # tool loop in tool category
 
 
 
