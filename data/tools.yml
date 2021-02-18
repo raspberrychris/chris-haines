@@ -1,6 +1,6 @@
 tools:
 # tool category
-- title: Recommended Hosting
+- title: My Recommended Hosting
   tool:
   # tool loop in tool category
   - name: WPX - Best Hosting (Affiliate Link)
@@ -25,7 +25,7 @@ tools:
 
 
 # tool category
-- title: Favourite SEO Tools
+- title: My Favourite SEO Tools
   tool:
   # tool loop in tool category
   - name: Ahrefs
@@ -34,7 +34,7 @@ tools:
   # tool loop in tool category
   - name: Majestic
     image: "https://searchengineland.com/figz/wp-content/seloads/2014/04/majestic-categories-sel.png"
-    link: /
+    link: https://majestic.com/
   # tool loop in tool category
   - name: SEM Rush
     image: "https://www.seerinteractive.com/wp-content/uploads/2016/03/01-main-organic-semrush-positions-1.png"
@@ -42,15 +42,15 @@ tools:
   # tool loop in tool category
   - name: Screaming Frog
     image: "https://www.screamingfrog.co.uk/wp-content/uploads/2012/02/screaming-frog-seo-spider-8.jpg"
-    link: /
+    link: https://www.screamingfrog.co.uk/seo-spider/
   # tool loop in tool category
   - name: Deep Crawl
     image: "https://i.ytimg.com/vi/KuOpBgpWsWY/maxresdefault.jpg"
-    link: /
+    link: https://www.deepcrawl.com/
     # tool loop in tool category
   - name: Scrapebox
     image: "https://www.scrapebox.com/wp-content/uploads/2015/05/scrapebox-gui.png"
-    link: /
+    link: http://www.scrapebox.com/
     # tool loop in tool category
   - name: Google Analytics
     image: "/images/tools/Google-Analytics.jpg"
@@ -59,6 +59,10 @@ tools:
   - name: Google Trends
     image: "/images/tools/GoogleTrends.jpg"
     link: https://trends.google.com/trends/
+
+  - name: Pi Datametrics
+    image: "https://www.pi-datametrics.com/wp-content/uploads/2016/09/Position-Explorer-Charts-Pi-Datametrics-interface-update.png"
+    link: https://www.pi-datametrics.com/
 # tool category
 - title: Make Money Online
   tool:
@@ -67,9 +71,9 @@ tools:
     image: "https://www.presearch.org/images/presearch-ipad.png"
     link: https://presearch.org/signup?rid=2227860
   # tool loop in tool category
-  - name: Coming Soon
-    image: "/images/tools/Buffer.jpg"
-    link: /
+  - name: Amazon Affiliate
+    image: "https://blog.hubspot.com/hs-fs/hubfs/Everything%20You%20Need%20to%20Know%20About%20the%20Amazon%20Affiliate%20Program-3.png?width=600&name=Everything%20You%20Need%20to%20Know%20About%20the%20Amazon%20Affiliate%20Program-3.png"
+    link: https://affiliate-program.amazon.co.uk/
   # tool loop in tool category
   - name: Bitly Link
     image: "/images/tools/Bitly.jpg"
