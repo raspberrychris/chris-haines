@@ -25,15 +25,7 @@ tools:
 
 
 # tool category
-<<<<<<< HEAD
-<<<<<<< HEAD
 - title: Design Tools
-=======
-- title: Hosting
->>>>>>> parent of 98b8cef... Update tools.yml
-=======
-- title: Hosting
->>>>>>> parent of 98b8cef... Update tools.yml
   tool:
   # tool loop in tool category
   - name: Sketch
