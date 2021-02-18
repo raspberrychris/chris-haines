@@ -8,12 +8,12 @@ tools:
     link: https://wpx.net/?affid=5504
   # tool loop in tool category
   - name: Bluehost
-    image: "/images/tools/Atom.png"
-    link: /
+    image: "https://www.createyourstart.com/wp-content/uploads/2018/08/bluehost.png"
+    link: https://www.bluehost.com/
   # tool loop in tool category
-  - name: Notepad ++
-    image: "/images/tools/Notepad.png"
-    link: https://notepad-plus-plus.org/
+  - name: SiteGround
+    image: "https://www.hostingclues.com/wp-content/uploads/siteground-review.png"
+    link: https://www.siteground.co.uk/
   # tool loop in tool category
   - name: Sublime Text
     image: "/images/tools/sublime.png"
