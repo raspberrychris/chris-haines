@@ -1,15 +1,15 @@
 tools:
 # tool category
-- title: Dev Tools
+- title: Recommended Hosting
   tool:
   # tool loop in tool category
-  - name: Git
-    image: "/images/tools/Git.png"
-    link: https://git-scm.com/
+  - name: WPX - Best Hosting (Affiliate Link)
+    image: "/images/tools/wpx-hosting.png"
+    link: https://wpx.net/?affid=5504
   # tool loop in tool category
-  - name: Atom
+  - name: Bluehost
     image: "/images/tools/Atom.png"
-    link: https://atom.io/
+    link: /
   # tool loop in tool category
   - name: Notepad ++
     image: "/images/tools/Notepad.png"
@@ -25,41 +25,51 @@ tools:
 
 
 # tool category
-- title: Design Tools
+- title: Favourite SEO Tools
   tool:
   # tool loop in tool category
-  - name: Sketch
-    image: "/images/tools/sketch.png"
-    link: https://www.sketch.com/
+  - name: Ahrefs
+    image: "/images/tools/Ahrefs.jpg"
+    link: https://ahrefs.com/
   # tool loop in tool category
-  - name: Adobe Illustrator
+  - name: Majestic
     image: "/images/tools/illustrator.png"
-    link: https://www.adobe.com/products/illustrator.html
+    link: /
   # tool loop in tool category
-  - name: Invision
+  - name: SEM Rush
     image: "/images/tools/invision.png"
-    link: https://www.invisionapp.com/studio
+    link: https://www.semrush.com/
   # tool loop in tool category
-  - name: Adobe XD
+  - name: Screaming Frog
     image: "/images/tools/xd.png"
-    link: https://www.adobe.com/products/xd.html
+    link: /
   # tool loop in tool category
-  - name: Figma
+  - name: Deep Crawl
     image: "/images/tools/figma.png"
-    link: https://www.figma.com/
-
-
+    link: /
+    # tool loop in tool category
+  - name: Scrapebox
+    image: "https://www.scrapebox.com/wp-content/uploads/2015/05/scrapebox-gui.png"
+    link: /
+    # tool loop in tool category
+  - name: Google Analytics
+    image: "/images/tools/Google-Analytics.jpg"
+    link: https://analytics.google.com/analytics/web
+    # tool loop in tool category
+  - name: Google Trends
+    image: "/images/tools/GoogleTrends.jpg"
+    link: https://trends.google.com/trends/
 # tool category
-- title: Digital Marketing Tools
+- title: Make Money Online
   tool:
   # tool loop in tool category
-  - name: Mailchimp
-    image: "/images/tools/MailChimp.jpg"
-    link: https://mailchimp.com/
+  - name: Presearch.io (Decentralised search engine earn per search)
+    image: "https://www.presearch.org/images/presearch-ipad.png"
+    link: https://presearch.org/signup?rid=2227860
   # tool loop in tool category
-  - name: Buffer
+  - name: Coming Soon
     image: "/images/tools/Buffer.jpg"
-    link: https://buffer.com/
+    link: /
   # tool loop in tool category
   - name: Bitly Link
     image: "/images/tools/Bitly.jpg"
