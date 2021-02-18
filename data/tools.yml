@@ -1,6 +1,5 @@
 tools:
 
-I only recommend the best tools
 
   # tool category
   - title: Recommended Hosting
@@ -35,12 +34,12 @@ I only recommend the best tools
 
 
 # tool category
-- title: Digital Marketing Tools
+- title: Make Money Online
   tool:
   # tool loop in tool category
-  - name: Mailchimp
-    image: "/images/tools/MailChimp.jpg"
-    link: https://mailchimp.com/
+  - name: Presearch (Decentralised Search Engine)
+    image: "https://www.presearch.org/images/presearch-ipad.png"
+    link: https://presearch.org/signup?rid=2227860
   # tool loop in tool category
   - name: Buffer
     image: "/images/tools/Buffer.jpg"
