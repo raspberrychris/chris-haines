@@ -1,37 +1,61 @@
 tools:
-  # tool category
-- title: Recommended Hosting
-  tool:
-    # tool loop in tool category
-  - name: WPX Hosting (Affiliate Link)
-    image: "/images/tools/wpx-hosting.png"
-    link: https://wpx.net/?affid=5504
 # tool category
-- title: My Favourite SEO Tools
+- title: Dev Tools
   tool:
   # tool loop in tool category
-  - name: Ahrefs
-    image: "https://ahrefs.com/blog/wp-content/uploads/2018/11/keywords-explorer-v3.jpg"
-    link: https://ahrefs.com
+  - name: Git
+    image: "/images/tools/Git.png"
+    link: https://git-scm.com/
   # tool loop in tool category
-  - name: SEM Rush
-    image: "https://semrush-kb.s3.amazonaws.com/uploads/2020/06/10/create%20project.gif"
-    link: https://www.semrush.com/
+  - name: Atom
+    image: "/images/tools/Atom.png"
+    link: https://atom.io/
   # tool loop in tool category
-  - name: Majestic
+  - name: Notepad ++
     image: "/images/tools/Notepad.png"
     link: https://notepad-plus-plus.org/
   # tool loop in tool category
-  - name: Scrapebox
-    image: "https://www.scrapebox.com/wp-content/uploads/2015/05/scrapebox-gui.png"
+  - name: Sublime Text
+    image: "/images/tools/sublime.png"
     link: https://www.sublimetext.com/
+  # tool loop in tool category
+  - name: Visual Studio Code
+    image: "/images/tools/vs-code.png"
+    link: https://code.visualstudio.com/
+
+
 # tool category
-- title: Make Money Online
+- title: Design Tools
   tool:
   # tool loop in tool category
-  - name: Presearch (Decentralised Search Engine)
-    image: "https://www.presearch.org/images/presearch-ipad.png"
-    link: https://presearch.org/signup?rid=2227860
+  - name: Sketch
+    image: "/images/tools/sketch.png"
+    link: https://www.sketch.com/
+  # tool loop in tool category
+  - name: Adobe Illustrator
+    image: "/images/tools/illustrator.png"
+    link: https://www.adobe.com/products/illustrator.html
+  # tool loop in tool category
+  - name: Invision
+    image: "/images/tools/invision.png"
+    link: https://www.invisionapp.com/studio
+  # tool loop in tool category
+  - name: Adobe XD
+    image: "/images/tools/xd.png"
+    link: https://www.adobe.com/products/xd.html
+  # tool loop in tool category
+  - name: Figma
+    image: "/images/tools/figma.png"
+    link: https://www.figma.com/
+
+
+# tool category
+- title: Digital Marketing Tools
+  tool:
+  # tool loop in tool category
+  - name: Mailchimp
+    image: "/images/tools/MailChimp.jpg"
+    link: https://mailchimp.com/
   # tool loop in tool category
   - name: Buffer
     image: "/images/tools/Buffer.jpg"
