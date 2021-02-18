@@ -3,13 +3,14 @@ tools:
 
 
   # tool category
-  - title: Recommended Hosting
-    tool:
+- title: Recommended Hosting
+  tool:
     # tool loop in tool category
-    - name: WPX Hosting (Affiliate Link)
-      image: "/images/tools/wpx-hosting.png"
-      link: https://wpx.net/?affid=5504
+  - name: WPX Hosting (Affiliate Link)
+    image: "/images/tools/wpx-hosting.png"
+    link: https://wpx.net/?affid=5504
     # tool loop in tool category
+
 # tool category
 - title: My Favourite SEO Tools
   tool:
@@ -30,9 +31,6 @@ tools:
     image: "https://www.scrapebox.com/wp-content/uploads/2015/05/scrapebox-gui.png"
     link: https://www.sublimetext.com/
   # tool loop in tool category
-
-
-
 
 # tool category
 - title: Make Money Online
