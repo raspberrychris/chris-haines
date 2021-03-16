@@ -7,21 +7,14 @@ tools:
     image: "/images/tools/wpx-hosting.png"
     link: https://wpx.net/?affid=5504
   # tool loop in tool category
-  - name: Bluehost
+  - name: Bluehost - (Affiliate Link)
     image: "https://www.createyourstart.com/wp-content/uploads/2018/08/bluehost.png"
-    link: https://www.bluehost.com/
+    link: https://www.bluehost.com/track/wellineverknewthat/
   # tool loop in tool category
   - name: SiteGround
     image: "https://www.hostingclues.com/wp-content/uploads/siteground-review.png"
     link: https://www.siteground.co.uk/
-  # tool loop in tool category
-  - name: Sublime Text
-    image: "/images/tools/sublime.png"
-    link: https://www.sublimetext.com/
-  # tool loop in tool category
-  - name: Visual Studio Code
-    image: "/images/tools/vs-code.png"
-    link: https://code.visualstudio.com/
+
 
 
 # tool category
