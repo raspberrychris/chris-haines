@@ -15,3 +15,5 @@ If you are looking for all of the [**Brighton SEO Slides 2022**](https://chris-h
 You can check out all the decks by clicking the link below:
 
 [https://chris-haines.notion.site/e0ce8391c4c746898cb1f3423321d3dc?v=8ce07bb4b5404ab6b5e954808337707a](https://chris-haines.notion.site/e0ce8391c4c746898cb1f3423321d3dc?v=8ce07bb4b5404ab6b5e954808337707a "https://chris-haines.notion.site/e0ce8391c4c746898cb1f3423321d3dc?v=8ce07bb4b5404ab6b5e954808337707a")
+
+Enjoy!
