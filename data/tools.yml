@@ -24,26 +24,6 @@ tools:
   - name: Ahrefs
     image: "/images/tools/Ahrefs.jpg"
     link: https://ahrefs.com/
-  # tool loop in tool category
-  - name: Majestic
-    image: "https://searchengineland.com/figz/wp-content/seloads/2014/04/majestic-categories-sel.png"
-    link: https://majestic.com/
-  # tool loop in tool category
-  - name: SEM Rush
-    image: "https://www.seerinteractive.com/wp-content/uploads/2016/03/01-main-organic-semrush-positions-1.png"
-    link: https://www.semrush.com/
-  # tool loop in tool category
-  - name: Screaming Frog
-    image: "https://www.screamingfrog.co.uk/wp-content/uploads/2012/02/screaming-frog-seo-spider-8.jpg"
-    link: https://www.screamingfrog.co.uk/seo-spider/
-  # tool loop in tool category
-  - name: Deep Crawl
-    image: "https://i.ytimg.com/vi/KuOpBgpWsWY/maxresdefault.jpg"
-    link: https://www.deepcrawl.com/
-    # tool loop in tool category
-  - name: Scrapebox
-    image: "https://www.scrapebox.com/wp-content/uploads/2015/05/scrapebox-gui.png"
-    link: http://www.scrapebox.com/
     # tool loop in tool category
   - name: Google Analytics
     image: "/images/tools/Google-Analytics.jpg"
@@ -52,38 +32,26 @@ tools:
   - name: Google Trends
     image: "/images/tools/GoogleTrends.jpg"
     link: https://trends.google.com/trends/
-
-  - name: Pi Datametrics
-    image: "https://www.pi-datametrics.com/wp-content/uploads/2016/09/Position-Explorer-Charts-Pi-Datametrics-interface-update.png"
-    link: https://www.pi-datametrics.com/
 # tool category
-- title: Make Money Online
-  tool:
+- title:  My Favourite Productivity Tools and Services
+  tool: 
   # tool loop in tool category
-  - name: Presearch.io (Decentralised search engine earn per search)
-    image: "https://www.presearch.org/images/presearch-ipad.png"
-    link: https://presearch.org/signup?rid=2227860
+  - name: Visual Studio Code 2
+    image: "/images/tools/visual-studio.png"
+    link: https://code.visualstudio.com/
   # tool loop in tool category
-  - name: Amazon Affiliate
-    image: "https://blog.hubspot.com/hs-fs/hubfs/Everything%20You%20Need%20to%20Know%20About%20the%20Amazon%20Affiliate%20Program-3.png?width=600&name=Everything%20You%20Need%20to%20Know%20About%20the%20Amazon%20Affiliate%20Program-3.png"
-    link: https://affiliate-program.amazon.co.uk/
+  - name: Bark - Get SEO Clients (Affiliate Link)
+    image: "/images/tools/Bark-Logo.jpg"
+    link: https://www.bark.com/?a_aid=5d2d0e83cdc39
   # tool loop in tool category
-  - name: Bitly Link
-    image: "/images/tools/Bitly.jpg"
-    link: https://bitly.com/
-  # tool loop in tool category
-  - name: Hotjar
-    image: "/images/tools/Hotjar.jpg"
-    link: https://www.hotjar.com/
-  # tool loop in tool category
-  - name: Ahrefs
+  - name: Ahrefs - Best SEO Tool
     image: "/images/tools/Ahrefs.jpg"
     link: https://ahrefs.com/
   # tool loop in tool category
-  - name: Google Trends
-    image: "/images/tools/GoogleTrends.jpg"
-    link: https://trends.google.com/trends/
+  - name: Notion - Best Workspace
+    image: "/images/tools/notion.png"
+    link: https://www.notion.so/
   # tool loop in tool category
-  - name: Google Analytics
-    image: "/images/tools/Google-Analytics.jpg"
-    link: https://analytics.google.com/analytics/web
+  - name: WriteSonic - AI Writer & Image Creator (Affiliate Link) 
+    image: "/images/tools/writesonic.jpg"
+    link: https://writesonic.com/?via=63f3ef

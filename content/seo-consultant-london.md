@@ -2,7 +2,7 @@
 author = "Chris Haines"
 categories = ["SEO"]
 date = 2022-03-30T11:00:00Z
-description = "Chris Haines is an SEO Consultant based in Ealing, West London. I have been working agency side for the last 10 "
+description = "Chris Haines is an SEO Consultant based in Ealing, West London. I have been working agency side for the last 10 years"
 image = "/images/seo-consultant.webp"
 title = "SEO Consultant London"
 type = "post"
@@ -10,11 +10,9 @@ type = "post"
 +++
 **Are you searching for an SEO consultant in London that gets you #1 rankings?**
 
-My names Chris Haines and I'm an **SEO Consultant** with over 10 years experience in SEO. 
+Hi there, names Chris Haines and I'm an **SEO Consultant** with over 10 years experience in SEO. 
 
-I’ve worked with some of the biggest names in the UK and beyond (ASDA, George, Emirates, Randstad, Canterbury NZ, Domestic and General, Vodafone, Nectar to name a few).  
-
-I guarantee to increase your online visibility within 90 days! If I don’t then I’ll give you a full refund, no questions asked.
+I’ve worked with some of the biggest names in the UK and beyond (ASDA, George, Emirates, Randstad, Canterbury NZ, Domestic and General, Vodafone, Nectar to name a few). 
 
 # **FAQs**
 
