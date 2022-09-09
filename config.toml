@@ -1,5 +1,5 @@
 ############################ Default configuration #########################
-baseURL = "/"
+baseURL = "https://chrishaines.uk"
 languageCode = "en-us"
 # site title
 title = "Chris Haines - SEO Consultant London"
@@ -51,9 +51,20 @@ name = "Contact"
 weight = 1
 
 [[menu.main]]
-URL = "seo-tools"
-name = "SEO Tools"
+URL = "recommended"
+name = "Recommended"
 weight = 2
+
+[[menu.main]]
+URL = "learn"
+name = "Learn"
+weight = 2
+
+[[menu.main]]
+URL = "blog"
+name = "blog"
+weight = 2
+
 
 # footer menu
 [[menu.footer]]
@@ -79,17 +90,17 @@ home = "Home"
 logo = "https://i.ibb.co/PhZ1yzF/chris-haines-seo-logo.webp"
 # meta data
 author = "Chris Haines"
-description = ""
+description = "Chris Haines is an Senior SEO Consultant with over 10 years of experience based in London"
 # google tag manager
 google_tag_manager = "" # your id
 # contact form action
 contact_form_action = "https://formspree.io/f/xjvplqna" # contact form works with : https://formspree.io
 # copyright
-copyright = "&copy; 2021 [Chrishaines.uk](https://chrishaines.uk) All Rights Reserved"
+copyright = "&copy; 2022 [Chrishaines.uk](https://chrishaines.uk) All Rights Reserved"
 
 # preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "" # use png, jpg, svg or gif format
 
 # search
