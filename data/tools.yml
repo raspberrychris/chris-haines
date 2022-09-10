@@ -1,67 +1,8 @@
-# tool category
-- title:  My Favourite Productivity Tools and Services
-  tool: 
-  # tool loop in tool category
-  - name: Visual Studio Code 2
-    image: "/images/tools/visual-studio-code.png"
-    link: https://code.visualstudio.com/
-  # tool loop in tool category
-  - name: Bark - Get SEO Clients (Affiliate Link)
-    image: "/images/tools/Bark-Logo.jpg"
-    link: https://www.bark.com/?a_aid=5d2d0e83cdc39
-  # tool loop in tool category
-  - name: Ahrefs - Best SEO Tool
-    image: "/images/tools/Ahrefs.jpg"
-    link: https://ahrefs.com/
-  # tool loop in tool category
-  - name: Notion - Best Workspace
-    image: "/images/tools/Notion.png"
-    link: https://www.notion.so/
-  # tool loop in tool category
-  - name: WriteSonic - AI Writer & Image Creator (Affiliate Link) 
-    image: "/images/tools/writesonic.jpg"
-    link: https://writesonic.com/?via=63f3ef
-
-
-
-tools:
-# tool category
-- title: My Recommended Hosting
-  tool:
-  # tool loop in tool category
-  - name: WPX - Best Hosting (Affiliate Link)
-    image: "/images/tools/wpx-hosting.png"
-    link: https://wpx.net/?affid=5504
-  # tool loop in tool category
-  - name: Bluehost - (Affiliate Link)
-    image: "https://www.createyourstart.com/wp-content/uploads/2018/08/bluehost.png"
-    link: https://www.bluehost.com/track/wellineverknewthat/
-  # tool loop in tool category
-  - name: SiteGround
-    image: "https://www.hostingclues.com/wp-content/uploads/siteground-review.png"
-    link: https://www.siteground.co.uk/
-
-
-
-# tool category
-- title: My Favourite SEO Tools
-  tool:
-  # tool loop in tool category
-  - name: Ahrefs
-    image: "/images/tools/Ahrefs.jpg"
-    link: https://ahrefs.com/
-    # tool loop in tool category
-  - name: Google Analytics
-    image: "/images/tools/Google-Analytics.jpg"
-    link: https://analytics.google.com/analytics/web
-    # tool loop in tool category
-  - name: Google Trends
-    image: "/images/tools/GoogleTrends.jpg"
-    link: https://trends.google.com/trends/
 <<<<<<< HEAD
 =======
 # tool category
-- title:  My Favourite Productivity Tools and Services
+tools:
+- title:  My Favourite Productivity Tools
   tool: 
   # tool loop in tool category
   - name: Visual Studio Code 2
@@ -83,4 +24,37 @@ tools:
   - name: WriteSonic - AI Writer & Image Creator (Affiliate Link) 
     image: "/images/tools/writesonic.jpg"
     link: https://writesonic.com/?via=63f3ef
+
+# tool category
+- title: My Recommended Hosting
+  tool:
+  # tool loop in tool category
+  - name: WPX - Best Hosting (Affiliate Link)
+    image: "/images/tools/wpx-hosting.png"
+    link: https://wpx.net/?affid=5504
+  # tool loop in tool category
+  - name: Bluehost - (Affiliate Link)
+    image: "https://www.createyourstart.com/wp-content/uploads/2018/08/bluehost.png"
+    link: https://www.bluehost.com/track/wellineverknewthat/
+  # tool loop in tool category
+  - name: SiteGround
+    image: "https://www.hostingclues.com/wp-content/uploads/siteground-review.png"
+    link: https://www.siteground.co.uk/
+
+# tool category
+- title: My Favourite SEO Tools
+  tool:
+  # tool loop in tool category
+  - name: Ahrefs
+    image: "/images/tools/Ahrefs.jpg"
+    link: https://ahrefs.com/
+    # tool loop in tool category
+  - name: Google Analytics
+    image: "/images/tools/Google-Analytics.jpg"
+    link: https://analytics.google.com/analytics/web
+    # tool loop in tool category
+  - name: Google Trends
+    image: "/images/tools/GoogleTrends.jpg"
+    link: https://trends.google.com/trends/
+
 >>>>>>> parent of 7180dc2 (.)
