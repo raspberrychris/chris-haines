@@ -6,7 +6,7 @@ tools:
   tool: 
   # tool loop in tool category
   - name: Visual Studio Code 2
-    image: "/images/tools/visual-studio.png"
+    image: "/images/tools/visual-studio-code.png"
     link: https://code.visualstudio.com/
   # tool loop in tool category
   - name: Bark - Get SEO Clients (Affiliate Link)
@@ -18,7 +18,7 @@ tools:
     link: https://ahrefs.com/
   # tool loop in tool category
   - name: Notion - Best Workspace
-    image: "/images/tools/notion.png"
+    image: "/images/tools/Notion.png"
     link: https://www.notion.so/
   # tool loop in tool category
   - name: WriteSonic - AI Writer & Image Creator (Affiliate Link) 
